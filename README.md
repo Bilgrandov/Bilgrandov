@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome%20Everyone🚀&section=header&reversal=false&fontColor=01334F&fontSize=50&textBg=false&animation=twinkling&rotate=10&stroke=fff"/>
 </p>
 
 <!--
