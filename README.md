@@ -43,8 +43,8 @@ Mindset     : Be Better
 
 [✓] Establishing signal connection...
 ```md
-🔗 LinkedIn   : [linkedin.com/in/bilgran](https://www.linkedin.com/in/bilgran-dov-786a0a24b)
-🌐 Portfolio  : [your-portfolio-link.com](mentor-hayalan.vercel.app)
+🔗 LinkedIn   : https://www.linkedin.com/in/bilgran-dov-786a0a24b
+🌐 Portfolio  : mentor-hayalan.vercel.app
 ```
 
 [✓] GitHub Status Console...
