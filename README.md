@@ -48,14 +48,9 @@ Mindset     : Be Better
 ```
 
 [✓] GitHub Status Console...
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgran&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgran&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgran&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Bilgran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilgran&show_icons=true&theme=tokyonight&hide_border=true)
+![Bilgran's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bilgran&theme=tokyonight&hide_border=true)
+![Bilgran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgran&layout=compact&theme=tokyonight&hide_border=true)
 
 [✓] Finalizing memory log...
 > `"If chaos is the law, then I am the observer. I document the drift so that one day, someone might find meaning in the madness."`  
