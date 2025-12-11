@@ -37,13 +37,3 @@ Mindset     : Be Better
 🔗 LinkedIn   : https://www.linkedin.com/in/bilgran-dov-786a0a24b
 🌐 Portfolio  : mentor-hayalan.vercel.app
 ```
-
-[✓] GitHub Status Console...
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgrandov&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgrandov&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgrandov&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
