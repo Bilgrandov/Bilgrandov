@@ -1,17 +1,9 @@
 <!-- Header -->
-<div align="center">
 
 ```
-╔══════════════════════════════════════════╗
-║   hey, i'm bilgrandov. i build things.  ║
-║   sometimes they even work.             ║
-╚══════════════════════════════════════════╝
-```
-
-*fullstack dev in the making · backend at heart · linux enjoyer*
-
-</div>
-
+<p align="center">
+  <img src="cover.png" width="910" height="396" alt="Banner Bilgrandov" />
+</p>
 ---
 
 <!-- Tech Stack -->
@@ -35,18 +27,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-📊 by the numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bilgrandov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilgrandov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-</div>
-
----
-
 <!-- Activity Graph -->
 📈 commit or die trying
 
@@ -63,9 +43,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
 
